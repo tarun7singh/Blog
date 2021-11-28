@@ -28,6 +28,8 @@ Start the development server:
 `npm start`
 
 Build and  serve the project for production:
-`npm run build`
-`npm i -g serve`
-`serve -s build`
+```
+npm run build
+npm i -g serve
+serve -s build
+```
